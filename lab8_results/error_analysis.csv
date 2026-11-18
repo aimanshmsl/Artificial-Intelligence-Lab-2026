@@ -1,4 +1,5 @@
 tweet_id,text,clean_text,airline,airline_sentiment,predicted_sentiment,confidence,error_category
+
 569607124772196352,@AmericanAir I was flying from Ft Lauderdale FL to Seattle WA on the 02/28/2015 until the 03/03/2015 and they don't want to honor my flight.,user i was flying from ft lauderdale fl to seattle wa on the 02/28/2015 until the 03/03/2015 and they don't want to honor my flight.,American,negative,neutral,0.9999998164826023,ambiguous_or_other
 569947699471974400,I hate you all. RT @JetBlue: Our fleet's on fleek. http://t.co/uTdfqF5WPA,i hate you all. rt user : our fleet's on fleek. url,Delta,negative,neutral,0.9999933238387116,ambiguous_or_other
 569925538946551808,Why? 😒 RT @JetBlue Our fleet's on fleek. http://t.co/I7Ut2ZvHCO,why? 😒 rt user our fleet's on fleek. url,Delta,negative,neutral,0.9999908613640675,question_or_request
